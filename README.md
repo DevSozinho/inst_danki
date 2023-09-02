@@ -5,7 +5,7 @@
 ##### **PréVisu 1**
 ![PreVisu1](imgs_ignore/previsu1.png)
 ##### **PréVisu 2**
-![PreVisu1](imgs_ignore/previsu1.png)
+![PreVisu1](imgs_ignore/previsu2.png)
 ##### **PréVisu 3**
 ![PreVisu1](imgs_ignore/previsu3.png)
 ##### **PréVisu 4**
