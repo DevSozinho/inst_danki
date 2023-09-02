@@ -3,15 +3,15 @@
 
 ### PréVisus:
 ##### **PréVisu 1**
-![PreVisu1](isso/previsu1.png)
+![PreVisu1](imgs_ignore/previsu1.png)
 ##### **PréVisu 2**
-![PreVisu1](isso/previsu2.png)
+![PreVisu1](imgs_ignore/previsu1.png)
 ##### **PréVisu 3**
-![PreVisu1](isso/previsu3.png)
+![PreVisu1](imgs_ignore/previsu3.png)
 ##### **PréVisu 4**
-![PreVisu1](isso/previsu4.png)
+![PreVisu1](imgs_ignore/previsu4.png)
 ##### **PréVisu 5**
-![PreVisu1](isso/previsu5.png)
+![PreVisu1](imgs_ignore/previsu5.png)
 
 
 ## Obs: **100% Responsivo**
